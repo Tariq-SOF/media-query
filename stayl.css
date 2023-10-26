@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+.navBar{
+    height: 60px;
+    background-color: rgb(49, 48, 48);
+}
+.Unorder-list{
+list-style-type: none ;
+display: flex;
+flex-direction: row;
+justify-content:space-around;
+align-items: center;
+color: white;
+
+}
+.continer
+{
+    display: flex;flex-direction:row; justify-content: space-around; margin-top: 50px; height:300px
+} 
+.button{
+    background-color: blue; color: white; padding: 20px 60PX;
+}
